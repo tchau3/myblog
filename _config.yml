@@ -25,7 +25,6 @@ github_username:  tchau3
 # Build settings
 markdown: kramdown
 remote_theme: Writer's Blog
-theme_color: white
 plugins:
   - jekyll-feed
 
